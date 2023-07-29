@@ -1,5 +1,5 @@
 class auth:
-    DISCORD = "MT1EzNDc1NDQ0MDA3OTk5ODk4Ng.G7uAbW.CWB73aHlZE75CSiOM8rHjOGZCKMNvftUsW9cNk"
+    DISCORD = "your bot token here"
   
 
 class names:
